@@ -37,12 +37,12 @@ CONTINENT LEVEL ANALYSIS
 
 #Continent        #new_cases   #new_deaths   #location  #population
 
- - Asia            -9,266,760   - 174,364     -    46   110,428,255.31
- - North America   - 8,090,185   - 292,949    -    36    21,515,047.49
- - South America    -7,419,022   -  231,638    -    13    38,167,272.17
- - Europe           -4,351,958   -  217,145    -    51    16,057,419.40
- - Africa           -1,391,566    -  33,623    -    55    26,813,127.26
- - Oceania          -32,211       -  908       -   8     6,147,198.48
+ - Asia            9,266,760    174,364         46     110,428,255.31
+ - North America    8,090,185    292,949        36      21,515,047.49
+ - South America    7,419,022     231,638         13    38,167,272.17
+ - Europe           4,351,958     217,145         51    16,057,419.40
+ - Africa           1,391,566      33,623         55    26,813,127.26
+ - Oceania          32,211          908           8     6,147,198.48
 
 
 
@@ -256,6 +256,7 @@ Coverage:209 countries across 6 continents
 Tools:Excel, Power Query, Python, PostgreSQL, Power BI
 
 Impact:Data-driven pandemic response recommendations
+
 
 
 
