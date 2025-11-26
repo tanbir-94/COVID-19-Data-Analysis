@@ -32,10 +32,8 @@ End-to-end data analysis of the COVID-19 pandemic covering data cleaning, explor
 ### Python EDA Results
 
 #### Continent Level Analysis
-
-
 CONTINENT LEVEL ANALYSIS
-==================================================
+
 Continent        new_cases   new_deaths   location  population
 
 Asia             9,266,760     174,364        46 110,428,255.31
@@ -257,3 +255,4 @@ Coverage:209 countries across 6 continents
 Tools:Excel, Power Query, Python, PostgreSQL, Power BI
 
 Impact:Data-driven pandemic response recommendations
+
