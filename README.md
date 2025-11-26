@@ -49,7 +49,6 @@ Oceania             32,211         908         8   6,147,198.48
 
 #### Country Performance Ranking
 
-
 COUNTRY PERFORMANCE RANKING
 ==================================================
 Top 10 countries by total cases:
@@ -256,4 +255,5 @@ Analysis Period: 2019-2020
 Dataset:43,631 records × 31 columns
 Coverage:209 countries across 6 continents
 Tools:Excel, Power Query, Python, PostgreSQL, Power BI
+
 Impact:Data-driven pandemic response recommendations
